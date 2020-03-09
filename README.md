@@ -1,3 +1,3 @@
 # Hello world
-Hi humans!
+Hi guys!
 I committed do not quit.
